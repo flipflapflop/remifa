@@ -9,7 +9,7 @@
 #include "errors.hxx"
 #include "lu_nopiv.hxx"
 #include "lu_nopiv_ll.hxx"
-#include "solve.hxx"
+// #include "solve.hxx"
 
 // STD
 #include <vector>
